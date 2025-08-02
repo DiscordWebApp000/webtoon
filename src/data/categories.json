@@ -1,0 +1,458 @@
+{
+  "categories": {
+    "spotlight": {
+      "name": "Spotlight",
+      "description": "Featured and highlighted content",
+      "subcategories": {
+        "featured": {
+          "name": "Featured",
+          "description": "Editor's picks and highlights",
+          "webtoons": [
+            {
+              "id": "spotlight-1",
+              "title": "Why Yuria Hid Her Wealth",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "isEvent": true,
+              "rating": 4.8,
+              "views": "2.1M"
+            },
+            {
+              "id": "spotlight-2",
+              "title": "The Divorcée's Dessert Cafe",
+              "imageUrl": "https://static.mangafire.to/9c36/i/f/0c/ebeb0512257745b3e74170b11276478b.jpg",
+              "isEvent": true,
+              "rating": 4.6,
+              "views": "1.8M"
+            },
+            {
+              "id": "spotlight-3",
+              "title": "Villainesses Have More Fun",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "isEvent": true,
+              "rating": 4.7,
+              "views": "1.9M"
+            }
+          ]
+        },
+        "trending": {
+          "name": "Trending",
+          "description": "Most popular this week",
+          "webtoons": [
+            {
+              "id": "trending-1",
+              "title": "The Villainess's Blind Date Is Too Perfect",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "isEvent": true,
+              "rating": 4.9,
+              "views": "3.2M"
+            },
+            {
+              "id": "trending-2",
+              "title": "Being Loved for the First Time",
+              "imageUrl": "https://static.mangafire.to/6d8e/i/0/3b/19766171aa2d5944d2eb1bbf6f0de358.jpg",
+              "isEvent": true,
+              "rating": 4.5,
+              "views": "2.8M"
+            }
+          ]
+        }
+      }
+    },
+    "new": {
+      "name": "New",
+      "description": "Latest releases and updates",
+      "subcategories": {
+        "recent": {
+          "name": "Recent",
+          "description": "Just released",
+          "webtoons": [
+            {
+              "id": "recent-1",
+              "title": "Another Typical Fantasy Romance",
+              "imageUrl": "https://static.mangafire.to/3b04/i/f/fd/bd5d94cce9f8ee2fc0eaab65b9d37c88.jpg",
+              "isNew": true,
+              "rating": 4.3,
+              "views": "500K"
+            },
+            {
+              "id": "recent-2",
+              "title": "Sword God: Dragon of Light",
+              "imageUrl": "https://static.mangafire.to/ff43/i/9/dc/647c9a04877bd410ed63bb7bdbd8c47a.jpg",
+              "isNew": true,
+              "rating": 4.6,
+              "views": "750K"
+            },
+            {
+              "id": "recent-3",
+              "title": "Just Kill Me Now",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250708_143/1751938884805gbTy9_JPEG/Thumb_Poster_8200.jpg?type=q90",
+              "isNew": true,
+              "rating": 4.2,
+              "views": "300K"
+            },
+            {
+              "id": "recent-4",
+              "title": "The Villainess's Pet",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "isNew": true,
+              "rating": 4.4,
+              "views": "450K"
+            },
+            {
+              "id": "recent-5",
+              "title": "My Sister's Friends",
+              "imageUrl": "https://static.mangafire.to/9c36/i/f/0c/ebeb0512257745b3e74170b11276478b.jpg",
+              "isNew": true,
+              "rating": 4.1,
+              "views": "280K"
+            },
+            {
+              "id": "recent-6",
+              "title": "The Lady's Butler",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "isNew": true,
+              "rating": 4.5,
+              "views": "520K"
+            },
+            {
+              "id": "recent-7",
+              "title": "I'm the Queen in This Life",
+              "imageUrl": "https://static.mangafire.to/6d8e/i/0/3b/19766171aa2d5944d2eb1bbf6f0de358.jpg",
+              "isNew": true,
+              "rating": 4.3,
+              "views": "380K"
+            },
+            {
+              "id": "recent-8",
+              "title": "The Princess's Doll Shop",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250416_90/1744763803345pv6Ca_JPEG/Thumb_Poster_The%20Regressed%20Empress%E2%80%99s%20Abduction%20Marriage.jpg?type=q90",
+              "isNew": true,
+              "rating": 4.0,
+              "views": "250K"
+            },
+            {
+              "id": "recent-9",
+              "title": "The Duke's Cursed Charm",
+              "imageUrl": "https://static.mangafire.to/ff43/i/9/dc/647c9a04877bd410ed63bb7bdbd8c47a.jpg",
+              "isNew": true,
+              "rating": 4.2,
+              "views": "320K"
+            },
+            {
+              "id": "recent-10",
+              "title": "The Emperor's New Clothes",
+              "imageUrl": "https://static.mangafire.to/3b04/i/f/fd/bd5d94cce9f8ee2fc0eaab65b9d37c88.jpg",
+              "isNew": true,
+              "rating": 4.4,
+              "views": "410K"
+            },
+            {
+              "id": "recent-11",
+              "title": "The Knight's Secret",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "isNew": true,
+              "rating": 4.1,
+              "views": "290K"
+            },
+            {
+              "id": "recent-12",
+              "title": "The Witch's Apprentice",
+              "imageUrl": "https://static.mangafire.to/9c36/i/f/0c/ebeb0512257745b3e74170b11276478b.jpg",
+              "isNew": true,
+              "rating": 4.3,
+              "views": "360K"
+            }
+          ]
+        },
+        "updates": {
+          "name": "Updates",
+          "description": "Recently updated",
+          "webtoons": [
+            {
+              "id": "updates-1",
+              "title": "The Rogue Producer Survives as an Idol",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250416_90/1744763803345pv6Ca_JPEG/Thumb_Poster_The%20Regressed%20Empress%E2%80%99s%20Abduction%20Marriage.jpg?type=q90",
+              "isUp": true,
+              "rating": 4.4,
+              "views": "1.2M"
+            },
+            {
+              "id": "updates-2",
+              "title": "The Regressed Empress's Abduction Marriage",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "isUp": true,
+              "rating": 4.7,
+              "views": "1.5M"
+            },
+            {
+              "id": "updates-3",
+              "title": "My Secretly Hot Husband",
+              "imageUrl": "https://static.mangafire.to/9c36/i/f/0c/ebeb0512257745b3e74170b11276478b.jpg",
+              "isUp": true,
+              "rating": 4.5,
+              "views": "900K"
+            },
+            {
+              "id": "updates-4",
+              "title": "The Villainess's New Life",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "isUp": true,
+              "rating": 4.6,
+              "views": "1.1M"
+            },
+            {
+              "id": "updates-5",
+              "title": "The Duke's Fake Sister",
+              "imageUrl": "https://static.mangafire.to/6d8e/i/0/3b/19766171aa2d5944d2eb1bbf6f0de358.jpg",
+              "isUp": true,
+              "rating": 4.3,
+              "views": "850K"
+            },
+            {
+              "id": "updates-6",
+              "title": "The Princess's Double Life",
+              "imageUrl": "https://static.mangafire.to/ff43/i/9/dc/647c9a04877bd410ed63bb7bdbd8c47a.jpg",
+              "isUp": true,
+              "rating": 4.4,
+              "views": "950K"
+            },
+            {
+              "id": "updates-7",
+              "title": "The Lady's Secret Garden",
+              "imageUrl": "https://static.mangafire.to/3b04/i/f/fd/bd5d94cce9f8ee2fc0eaab65b9d37c88.jpg",
+              "isUp": true,
+              "rating": 4.2,
+              "views": "780K"
+            },
+            {
+              "id": "updates-8",
+              "title": "The Count's Daughter",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250708_143/1751938884805gbTy9_JPEG/Thumb_Poster_8200.jpg?type=q90",
+              "isUp": true,
+              "rating": 4.5,
+              "views": "1.0M"
+            },
+            {
+              "id": "updates-9",
+              "title": "The Baron's Bride",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "isUp": true,
+              "rating": 4.1,
+              "views": "720K"
+            },
+            {
+              "id": "updates-10",
+              "title": "The Knight's Love",
+              "imageUrl": "https://static.mangafire.to/9c36/i/f/0c/ebeb0512257745b3e74170b11276478b.jpg",
+              "isUp": true,
+              "rating": 4.3,
+              "views": "880K"
+            },
+            {
+              "id": "updates-11",
+              "title": "The Queen's Shadow",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "isUp": true,
+              "rating": 4.6,
+              "views": "1.3M"
+            },
+            {
+              "id": "updates-12",
+              "title": "The Prince's Tutor",
+              "imageUrl": "https://static.mangafire.to/6d8e/i/0/3b/19766171aa2d5944d2eb1bbf6f0de358.jpg",
+              "isUp": true,
+              "rating": 4.4,
+              "views": "920K"
+            }
+          ]
+        }
+      }
+    },
+    "popular": {
+      "name": "Popular",
+      "description": "Most read and trending",
+      "subcategories": {
+        "top": {
+          "name": "Top Rated",
+          "description": "Highest rated webtoons",
+          "webtoons": [
+            {
+              "id": "top-1",
+              "title": "The Remarried Empress",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "rating": 4.9,
+              "views": "4.2M"
+            },
+            {
+              "id": "top-2",
+              "title": "True Beauty",
+              "imageUrl": "https://static.mangafire.to/6d8e/i/0/3b/19766171aa2d5944d2eb1bbf6f0de358.jpg",
+              "rating": 4.8,
+              "views": "3.8M"
+            },
+            {
+              "id": "top-3",
+              "title": "The Beginning After The End",
+              "imageUrl": "https://static.mangafire.to/3b04/i/f/fd/bd5d94cce9f8ee2fc0eaab65b9d37c88.jpg",
+              "rating": 4.7,
+              "views": "3.5M"
+            },
+            {
+              "id": "top-4",
+              "title": "Villainess Is a Marionette",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "rating": 4.6,
+              "views": "3.2M"
+            },
+            {
+              "id": "top-5",
+              "title": "The Villainess's Stationery Shop",
+              "imageUrl": "https://static.mangafire.to/9c36/i/f/0c/ebeb0512257745b3e74170b11276478b.jpg",
+              "rating": 4.5,
+              "views": "2.9M"
+            },
+            {
+              "id": "top-6",
+              "title": "I Became the Male Lead's Adopted Daughter",
+              "imageUrl": "https://static.mangafire.to/ff43/i/9/dc/647c9a04877bd410ed63bb7bdbd8c47a.jpg",
+              "rating": 4.4,
+              "views": "2.7M"
+            },
+            {
+              "id": "top-7",
+              "title": "The Duchess's 50 Tea Recipes",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250708_143/1751938884805gbTy9_JPEG/Thumb_Poster_8200.jpg?type=q90",
+              "rating": 4.3,
+              "views": "2.5M"
+            },
+            {
+              "id": "top-8",
+              "title": "The Lady's Secret",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250416_90/1744763803345pv6Ca_JPEG/Thumb_Poster_The%20Regressed%20Empress%E2%80%99s%20Abduction%20Marriage.jpg?type=q90",
+              "rating": 4.2,
+              "views": "2.3M"
+            },
+            {
+              "id": "top-9",
+              "title": "The Crown Princess",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "rating": 4.1,
+              "views": "2.1M"
+            },
+            {
+              "id": "top-10",
+              "title": "The Duke's Daughter",
+              "imageUrl": "https://static.mangafire.to/6d8e/i/0/3b/19766171aa2d5944d2eb1bbf6f0de358.jpg",
+              "rating": 4.0,
+              "views": "1.9M"
+            },
+            {
+              "id": "top-11",
+              "title": "The Princess's Knight",
+              "imageUrl": "https://static.mangafire.to/3b04/i/f/fd/bd5d94cce9f8ee2fc0eaab65b9d37c88.jpg",
+              "rating": 3.9,
+              "views": "1.7M"
+            },
+            {
+              "id": "top-12",
+              "title": "The Queen's Guard",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "rating": 3.8,
+              "views": "1.5M"
+            }
+          ]
+        },
+        "trending": {
+          "name": "Trending Now",
+          "description": "Currently trending",
+          "webtoons": [
+            {
+              "id": "trending-pop-1",
+              "title": "Solo Leveling",
+              "imageUrl": "https://static.mangafire.to/ff43/i/9/dc/647c9a04877bd410ed63bb7bdbd8c47a.jpg",
+              "rating": 4.9,
+              "views": "5.1M"
+            },
+            {
+              "id": "trending-pop-2",
+              "title": "Tower of God",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250708_143/1751938884805gbTy9_JPEG/Thumb_Poster_8200.jpg?type=q90",
+              "rating": 4.8,
+              "views": "4.7M"
+            },
+            {
+              "id": "trending-pop-3",
+              "title": "The God of High School",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250416_90/1744763803345pv6Ca_JPEG/Thumb_Poster_The%20Regressed%20Empress%E2%80%99s%20Abduction%20Marriage.jpg?type=q90",
+              "rating": 4.6,
+              "views": "4.3M"
+            },
+            {
+              "id": "trending-pop-4",
+              "title": "Noblesse",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "rating": 4.5,
+              "views": "4.1M"
+            },
+            {
+              "id": "trending-pop-5",
+              "title": "The Legendary Moonlight Sculptor",
+              "imageUrl": "https://static.mangafire.to/6d8e/i/0/3b/19766171aa2d5944d2eb1bbf6f0de358.jpg",
+              "rating": 4.4,
+              "views": "3.9M"
+            },
+            {
+              "id": "trending-pop-6",
+              "title": "The Gamer",
+              "imageUrl": "https://static.mangafire.to/3b04/i/f/fd/bd5d94cce9f8ee2fc0eaab65b9d37c88.jpg",
+              "rating": 4.3,
+              "views": "3.7M"
+            },
+            {
+              "id": "trending-pop-7",
+              "title": "UnOrdinary",
+              "imageUrl": "https://static.mangafire.to/720d/i/1/c5/1d14b807adfc3a9c3e75a5920f438c46.jpg",
+              "rating": 4.2,
+              "views": "3.5M"
+            },
+            {
+              "id": "trending-pop-8",
+              "title": "Lookism",
+              "imageUrl": "https://static.mangafire.to/9c36/i/f/0c/ebeb0512257745b3e74170b11276478b.jpg",
+              "rating": 4.1,
+              "views": "3.3M"
+            },
+            {
+              "id": "trending-pop-9",
+              "title": "Weak Hero",
+              "imageUrl": "https://static.mangafire.to/ff43/i/9/dc/647c9a04877bd410ed63bb7bdbd8c47a.jpg",
+              "rating": 4.0,
+              "views": "3.1M"
+            },
+            {
+              "id": "trending-pop-10",
+              "title": "Eleceed",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250708_143/1751938884805gbTy9_JPEG/Thumb_Poster_8200.jpg?type=q90",
+              "rating": 3.9,
+              "views": "2.9M"
+            },
+            {
+              "id": "trending-pop-11",
+              "title": "Omniscient Reader",
+              "imageUrl": "https://webtoon-phinf.pstatic.net/20250416_90/1744763803345pv6Ca_JPEG/Thumb_Poster_The%20Regressed%20Empress%E2%80%99s%20Abduction%20Marriage.jpg?type=q90",
+              "rating": 3.8,
+              "views": "2.7M"
+            },
+            {
+              "id": "trending-pop-12",
+              "title": "The Boxer",
+              "imageUrl": "https://static.mangafire.to/9088/i/c/c7/e988e486bb925872053f1ab8677ca026.jpg",
+              "rating": 3.7,
+              "views": "2.5M"
+            }
+          ]
+        }
+      }
+    }
+  }
+} 
